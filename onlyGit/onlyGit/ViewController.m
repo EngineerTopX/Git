@@ -20,4 +20,6 @@
 }
 //MARK: 项目初始化
 
+//MARK: manager检查项目
+
 @end
